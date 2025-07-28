@@ -30,8 +30,6 @@ After `cloning` the assignment you should make two commits:
 Your name: Andy Liu
 Date: July 28, 2025
 
-Your name: <insert-your-name-here> Date: <insert-the-date-here>
-
 ---
 
 If you have any problems with this practice assignment, take screenshots and post them to <https://piazza.com/ucsd/summer2025/rady499>.
