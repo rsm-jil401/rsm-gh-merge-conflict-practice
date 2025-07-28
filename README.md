@@ -27,7 +27,7 @@ After `cloning` the assignment you should make two commits:
 
 > Important: Provide the **name** information requested below in the cloned repo and provide the **date** information requested below through GitHub directly:
 
-Your name:  
+Your name: Andy Liu
 Date: July 28, 2025
 
 Your name: <insert-your-name-here> Date: <insert-the-date-here>
